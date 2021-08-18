@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShajibGhosh
+- 👋 Hi, I’m @shajibghosh
 - 👀 I’m interested in applications of machine learning and artificial intelligence in different fields, e.g., biomedical applications, hardware security and assurance, IoT etc.
 - 🌱 I’m currently learning image processing and computer vision with deep learning based approaches.
 - 💞️ I’m looking to collaborate on different projects related to deep learning, self-explainable AI, image processing and computer vision. 
