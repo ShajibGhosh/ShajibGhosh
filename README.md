@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shajib Ghosh</h1>
 <h3 align="center">A researcher exploring applications of AI, ML, DL in hardware assurance, biomedical applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shajibghosh&label=Profile%20views&color=0e75b6&style=flat" alt="shajibghosh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shajibghosh&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shajibghosh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajibghosh&theme=dark" alt="shajibghosh" /></a> </p>
 
