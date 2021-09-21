@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajibghosh&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shajibghosh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajibghosh&theme=dark" alt="shajibghosh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajibghosh&theme=onedark" alt="shajibghosh" /></a> </p>
 
 - 🌱 I’m currently learning **image processing and computer vision with deep learning based approaches.**
 
