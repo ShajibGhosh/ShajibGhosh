@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **image processing and computer vision with deep learning based approaches.**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/bmpt.du.ac.bd/shajibghosh](My Google Scholar Profile)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/bmpt.du.ac.bd/shajibghosh] (**My Google Scholar Profile**)
 
 - 📫 How to reach me: **email me at shajibghosh94[at]gmail[dot]com**
 
