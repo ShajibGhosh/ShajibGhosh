@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **email me at shajibghosh94 [at] gmail [dot] com**
 
-- 📄 Know about my [**experiences**](https://bit.ly/3zUSD3K)
+- 📄 Know about my [**experiences**](https://drive.google.com/file/d/1cr_LeJVbd66Ec-OYOq6LLAe9G6_xeRKL/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
